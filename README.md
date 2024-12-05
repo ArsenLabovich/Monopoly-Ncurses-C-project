@@ -7,6 +7,13 @@ I've done this project for my Programmin 2 subject at University.
 All have been tested on Cygwin compiler.
 
 Scales could be different, depends on monitor resolution.
+<h1>Menu view</h1>
+
+![Menu](pictures/menu.png)
+
+<h1>Game view</h1>
+
+![Game](pictures/game.png)
 
 ## Requirements
 
