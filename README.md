@@ -19,8 +19,8 @@ Scales could be different, depends on monitor resolution.
 1. Ensure you have CMake and a C compiler installed.
 2. Clone the repository:
     ```sh
-    git clone <your-repository-URL>
-    cd <your-repository-name>
+    git https://github.com/ArsenLabovich/Monopoly-Ncurses-C-project
+    cd Monopoly-Ncurses-C-project
     ```
 3. Create and navigate to the build directory:
     ```sh
